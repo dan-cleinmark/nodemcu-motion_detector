@@ -2,7 +2,7 @@
 
 ## Sample Code ##
 
-### motion.lua
+#### motion.lua
 Connect output of sensor to D6.  If sensor is in 'hold HIGH' mode, a line will be logged fwhile motion is being detected.  If sensor is in 'motion event' mode, a line will be logged for every motion event.
 
 ## Specs ##
