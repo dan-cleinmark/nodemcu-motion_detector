@@ -21,3 +21,4 @@ Connect output of sensor to D6.  If sensor is in 'hold HIGH' mode, a line will b
 
 * http://www.esp8266-projects.com/2015/03/esp8266-pir-motion-sensor-detection.html
 * http://www.amazon.com/gp/product/B00FDPO9B8
+* http://www.mpja.com/download/31227sc.pdf
