@@ -12,8 +12,9 @@ Connect output of sensor to D6.  If sensor is in 'hold HIGH' mode, a line will b
 
 ## Notes ##
 
-* jumper on middle and inside: holds output pin HIGH when motion detected
+* jumper on middle and inside: holds output pin HIGH when motion detected.
 * jumper on outside and middle: output is raised HIGH once / motion "event".  No motion for X interval (set by one of the dials?) ends a motion event. 
+* with jumper on the left, left-most dial is sensitivity (3m-7m), right dial is 'time delay before triggering' (300ms - 5s).
 * attempting to run off < 5v results in the output flapping.  HC-SR501 includes a 5v -> 3v regulator that could be bypassed if 3.3v supply is required.
 
 
